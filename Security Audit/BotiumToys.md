@@ -1,5 +1,4 @@
 # Botium Toys: Scope, goals, and risk assessment report
-
 ---
 
 ## Scope and goals of the audit
